@@ -22,9 +22,14 @@ This project is an NLP-powered tool for resolving merge conflicts in software de
 #### merge-conflict-resolver/
 
 │
+
 ├── README.md               # Project documentation
+
 ├── merge_resolver.py       # Main Python script for local execution
+
 ├── requirements.txt        # Python dependencies
+
 ├── base_code.txt           # Example base code file
+
 ├── conflict_code.txt       # Example conflicting code file
 
